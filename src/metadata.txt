@@ -1,0 +1,22 @@
+
+[general]
+name=WZ Workflow
+qgisMinimumVersion=3.0
+description=Narzędzie do zarządzania workflow WZ
+version=1.0
+author=Twoje Imię
+email=link.mapy@gmail.com
+
+about=Plugin do uruchamiania narzędzia wspomagającego analizy do wniosków o decyzję WZ w QGIS. 
+    Dodaje narzędzie do paska zadań.
+
+tracker=https://github.com/AdrLin/AdrLin-wz_workflow_qgis_plugin.git/issues
+repository=https://github.com/AdrLin/AdrLin-wz_workflow_qgis_plugin.git
+
+tags=workflow,analysis,custom
+homepage=https://github.com/username/repo
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
+
